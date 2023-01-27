@@ -1062,7 +1062,7 @@ margin: 0 auto;
     position: static;
 }
 #figure__02 {left: 30%}
-#figure__01 {right: 10px;}
+#figure__01 {right: 20px;}
 .talk__to__experts__inner {
     flex-direction: column;
     top:40%;
@@ -1113,9 +1113,10 @@ margin: 0 auto;
     margin: 0 auto;
 }
 .outro__card {/* margin: 0px 36px; */ width: 80%; height: 30%; }
-#figure__003 { left: 340px;}
+#figure__001 { left: 15px}
+#figure__003 { left: 230px;}
 #figure__004 {
-    right: 15px;
+    right: 20px;
 }
 #icon_1 {margin: 0 auto;}
 #icon_2 {margin: 0 auto;}
